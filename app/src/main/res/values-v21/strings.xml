@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">تطبيق حضر</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="absence_present">القاعات</string>
+    <string name="lbl_delay">المعلمين</string>
+    <string name="lbl_notification">ملاحظات </string>
+    <string name="lbl_title">تطبيق حضر</string>
+    <string name="title_activity_staffs">StaffsActivity</string>
+    <string name="title_activity_delay">DelayActivity</string>
+    <string name="title_activity_evaluations">EvaluationsActivity</string>
+    <string name="lb_synch">مزامنة البيانات</string>
+    <string name="title_activity_absence">AbsenceActivity</string>
+    <string name="title_activity_fill_details">FillDetailsActivity</string>
+    <string name="Details_teacher_name">اسم المعلم</string>
+    <string name="Details_teacher_nameVal"></string>
+    <string name="Details_absence_lbl"><u>الغياب</u></string>
+    <string name="Details_delay_lbl"><u>التأخر</u></string>
+    <string name="Details_absence_val"><u>الغياب</u></string>
+    <string name="Details_notes_lbl"><u>الملاحظات</u></string>
+    <string name="MSG_Save_Absence">تم حفظ الغياب بنجاح</string>
+    <string name="MSG_Save_delay">تم حفظ التأخر بنجاح</string>
+    <string name="MSG_Save_eval">تم حفظ الملاحظة بنجاح </string>
+    <string name="MSG_Save_staffitem">تم حفظ بيانات المعلم بنجاح</string>
+    <string name="Details_delay_val"><u>التاخر</u></string>
+    <string name="choose_date">اختر التاريخ</string>
+    <string name="choose_time">اختر التوقيت</string>
+    <string name="title_activity_show_absence">ShowAbsenceActivity</string>
+    <string name="title_activity_show_delay">ShowDelayActivity</string>
+    <string name="title_activity_show_eval">ShowEvalActivity</string>
+    <string name="title_activity_reg_step1">RegStep1</string>
+    <string name="title_activity_reg_step2">RegStep2</string>
+</resources>
