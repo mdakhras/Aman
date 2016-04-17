@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">تطبيق حضر</string>
+    <string name="app_name">تطبيق أمان</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -7,7 +7,7 @@
     <string name="absence_present">القاعات</string>
     <string name="lbl_delay">المعلمين</string>
     <string name="lbl_notification">ملاحظات </string>
-    <string name="lbl_title">تطبيق حضر</string>
+    <string name="lbl_title">تطبيق أمان</string>
     <string name="title_activity_staffs">StaffsActivity</string>
     <string name="title_activity_delay">DelayActivity</string>
     <string name="title_activity_evaluations">EvaluationsActivity</string>
